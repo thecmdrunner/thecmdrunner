@@ -58,3 +58,5 @@ This profile was inspired and made by <b>ProfilmeMe.Dev:</b> https://profileme.d
 ### <p style="font-family: 'SF Mono', 'Ubuntu Mono', 'Fira Code', 'Fira Mono',monospace;"><Support Me\/></p>
 
 <a href="https://www.buymeacoffee.com/thecmdrunner"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
+<a href='https://ko-fi.com/thecmdrunner' target='_blank'><img width="200" style='border:0px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
