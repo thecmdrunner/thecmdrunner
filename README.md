@@ -39,6 +39,10 @@ Hello, this is Pranav from India 🇮🇳.</h1>
 <a href="https://ipfs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ipfs-colored.svg" width="36" height="36" alt="IPFS" /></a>
 </p>
 
+### <p style="font-family: 'SF Mono', 'Ubuntu Mono', 'Fira Code', 'Fira Mono',monospace"><My Favourite\/></p>
+
+<a href="https://www.remotion.dev/" target="_blank" rel="noreferrer"><img src="https://github.com/remotion-dev/logo/raw/main/withtitle/element-0.png" style="border-radius: 7px" height="50"  alt="Remotion" /></a> <a href="https://www.remotion.dev/" target="_blank" rel="noreferrer" style="border-radius: 7px"><img src="https://user-images.githubusercontent.com/38887390/209812732-a43f1a73-4761-4a5a-9cdf-278adabd377d.png"   height="50"  alt="NextJs" /></a> <a href="https://www.remotion.dev/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/38887390/209813670-aa568608-5ad4-44d2-a15a-09f79ca7a172.png" height="45"  alt="Tailwind CSS" /></a>
+
 ### <p style="font-family: 'SF Mono', 'Ubuntu Mono', 'Fira Code', 'Fira Mono',monospace"><Reach Me\/></p>
 
 <p align="left"> <a href="https://www.dev.to/thecmdrunner" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--pcSkTMZL--/c_limit,f_auto,fl_progressive,q_80,w_190/https://practicaldev-herokuapp-com.freetls.fastly.net/assets/devlogo-pwa-512.png" width="32" height="32" /></a> <a href="https://discord.com/users/thecmdrunner#2074" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
