@@ -3,18 +3,19 @@ Hello, this is Pranav from India 🇮🇳.</h1>
 
 ### <p style="font-family: 'SF Mono', 'Ubuntu Mono', 'Fira Code', 'Fira Mono',monospace;"><Introduction\/></p>
 
-- 🧔🏻 I'm a beginner Full Stack Developer, and an avid reader.
+<!-- - 🧔🏻 I'm a beginner Full Stack Developer, and an avid reader. -->
 
   <!-- - 🖥️  See my portfolio at [here on netlify](https://) -->
 
 - 🚀  I'm currently working on a [Blog and Dev Profile](http://localhost:3000) _powered by NextJs & Hugo_.
 
 - 🧠  **Here's what am I currently learning:**
+  1.  Making websites with Next.js and Tailwind
+  2.  Integrating Blender models in React with [Three.js](https://threejs.org/)
+  3.  Making videos programatically in [Remotion](https://remotion.dev/)
 
-  1.  Integrating Blender models in React with [Three.js](https://threejs.org/)
-  2.  Making videos in [Remotion](https://remotion.dev/)
-
-- 🤝  We can collaborate on making websites look outstanding with 3D models using Three.js.
+- 🤝  We can collaborate on: 
+  1. Making videos with dynamic data that update in realtime, like [this Intro](https://fireship-remotion-intro.vercel.app/) for [Fireship's](https://www.youtube.com/@Fireship) Code Report.
 
 - ❤️ I love paying attention to every aspect of life.
 
