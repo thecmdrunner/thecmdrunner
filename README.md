@@ -10,7 +10,7 @@ Hello, this is Pranav from India 🇮🇳.</h1>
 - 🚀  I'm currently working on a [Blog and Dev Profile](http://localhost:3000) _powered by NextJs & Hugo_.
 
 - 🧠  **Here's what I want to learn this year:**
-  1.  Making great websites experiences using Next.js, Tailwind, [Remotion](https://remotion.dev) and ofcourse [OpenAI](https://openai.com)
+  1.  Making great websites experiences using Next.js, Tailwind, [Remotion](https://remotion.dev) and ofcourse [OpenAI](https://openai.com).
   2.  Interactive Blender models in React with [Three.js](https://threejs.org)
 - 🤝  We can collaborate on:
 
