@@ -20,38 +20,9 @@ Hello, this is Pranav from India 🇮🇳.</h1>
 
 - ✉️  Say Hello at [thecmdrunner@proton.me](mailto:thecmdrunner@proton.me).
 
-### <p style="font-family: 'SF Mono', 'Ubuntu Mono', 'Fira Code', 'Fira Mono',monospace"><Skills\/></p>
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" style="border-radius: 5px" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" style="border-radius: 5px" /></a>
-<a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<!-- <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>   -->
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://github.com/thecmdrunner/thecmdrunner/blob/master/assets/firebase.png?raw=true" height="36" alt="Firebase" /></a>
-<a href="https://openai.com/" target="_blank" rel="noreferrer"><img src="https://github.com/thecmdrunner/thecmdrunner/blob/master/assets/openai.jpg?raw=true" width="36" alt="OpenAI" /></a>
-<a href="https://www.remotion.dev/" target="_blank" rel="noreferrer"><img src="https://github.com/remotion-dev/brand/raw/main/withouttitle/element-0.png" width="36" alt="Remotion" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/e1e113df83e7731fdb90f6f0ab2eeb155fd1b48c27d99814dcf1c23c0acdc6a2/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313636323133303535392f6e6578746a732f49636f6e5f6461726b5f6261636b67726f756e642e706e67" width="36" height="36" alt="Next.js" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://trpc.io/" target="_blank" rel="noreferrer"><img src="https://trpc.io/img/logo.svg" width="36" alt="tRPC" /></a>
-<!-- <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a> -->
-
-<!-- <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"><img src="https://github.com/thecmdrunner/thecmdrunner/blob/master/assets/prisma.png?raw=true" width="36" alt="Prisma" /></a> -->
-<!-- <a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/thecmdrunner/thecmdrunner/master/assets/redis.webp" width="36" alt="Redis" /></a> -->
-
-<!-- <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a> -->
-<!-- <a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a> -->
-<!-- <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a> -->
-<!-- <a href="https://ipfs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ipfs-colored.svg" width="36" height="36" alt="IPFS" /></a> -->
-</p>
-
 ### <p style="font-family: 'SF Mono', 'Ubuntu Mono', 'Fira Code', 'Fira Mono',monospace"><My Favourite\/></p>
 
-<a href="https://create.t3.gg/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/t3-oss/create-t3-app/ee55a02305a650e276bc9126a791be99450716e6/www/public/favicon.svg" height="50" style="border-radius: 7px" alt="Create-t3-app" /></a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/thecmdrunner/thecmdrunner/master/assets/nextjs.avif"   height="50" style="border-radius: 7px" alt="Next.js" /></a>
-<a href="https://www.remotion.dev/" target="_blank" rel="noreferrer"><img src="https://github.com/remotion-dev/logo/raw/main/withtitle/element-0.png" style="border-radius: 7px" height="50"  alt="Remotion" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/38887390/209813670-aa568608-5ad4-44d2-a15a-09f79ca7a172.png" height="45" style="border-radius: 7px" alt="Tailwind CSS" /></a>
+![fav](https://github.com/thecmdrunner/thecmdrunner/blob/master/assets/fav-tech.png?raw=true)
 
 ### <p style="font-family: 'SF Mono', 'Ubuntu Mono', 'Fira Code', 'Fira Mono',monospace"><Reach Me\/></p>
 
