@@ -1,5 +1,5 @@
 <h1><img width=30 src="https://user-images.githubusercontent.com/38887390/209797658-c803febe-d7a8-4441-b9c0-90fc4a59781e.gif" />
-Hello, this is Pranav from India 🇮🇳.</h1>
+Hello, I'm Pranav from India 🇮🇳.</h1>
 
 ### <p style="font-family: 'SF Mono', 'Ubuntu Mono', 'Fira Code', 'Fira Mono',monospace;"><Introduction\/></p>
 
