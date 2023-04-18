@@ -22,7 +22,7 @@ Hello, I'm Pranav from India 🇮🇳.</h1>
 
 ### <p style="font-family: 'SF Mono', 'Ubuntu Mono', 'Fira Code', 'Fira Mono',monospace"><My Favourite\/></p>
 
-![fav](https://github.com/thecmdrunner/thecmdrunner/blob/master/assets/fav-tech.png?raw=true)
+![fav](/assets/fav-tech.png)
 
 ### <p style="font-family: 'SF Mono', 'Ubuntu Mono', 'Fira Code', 'Fira Mono',monospace"><Reach Me\/></p>
 
