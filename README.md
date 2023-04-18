@@ -27,11 +27,14 @@ Hello, I'm Pranav from India 🇮🇳.</h1>
 ### <p style="font-family: 'SF Mono', 'Ubuntu Mono', 'Fira Code', 'Fira Mono',monospace"><Reach Me\/></p>
 
 <p align="left">
-<a href="mailto:thecmdrunner@proton.me" target="_blank" rel="noreferrer"><img src="https://iconmonstr.com/wp-content/g/gd/makefg.php?i=../releases/preview/2012/png/iconmonstr-email-1.png&r=120&g=133&b=255" width="32" height="32" /></a>
-<a href="https://discord.com/users/thecmdrunner#2074" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-<a href="https://twitter.com/thecmdrunner" target="_blank" rel="noreferrer"><img src="https://github.com/thecmdrunner/thecmdrunner/blob/master/assets/2021%20Twitter%20logo%20-%20blue.png?raw=true" height="30" /></a>
-<a href="https://universeodon.com/@thecmdrunner" target="_blank" rel="noreferrer"><img src="https://joinmastodon.org/logos/logo-purple.svg" width="32" height="32" /></a>
-<a href="https://www.dev.to/thecmdrunner" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--pcSkTMZL--/c_limit,f_auto,fl_progressive,q_80,w_190/https://practicaldev-herokuapp-com.freetls.fastly.net/assets/devlogo-pwa-512.png" width="32" height="32" style="border-radius: 7px" /></a>
+<a href="mailto:thecmdrunner@proton.me" target="_blank" rel="noreferrer"><img src="/assets/email.png" width="50" height="50" /></a>
+<a href="https://discord.com/users/thecmdrunner#2074" target="_blank" rel="noreferrer"><img src="/assets/discord.png" width="50" height="50" /></a>
+<a href="https://twitter.com/thecmdrunner" target="_blank" rel="noreferrer"><img src="/assets/twitter.png" width="50" height="50" /></a>
+<a href="https://universeodon.com/@thecmdrunner" target="_blank" rel="noreferrer"><img src="/assets/mastodon.png" width="50" height="50" /></a>
+<!-- <a href="https://www.dev.to/thecmdrunner" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--pcSkTMZL--/c_limit,f_auto,fl_progressive,q_80,w_190/https://practicaldev-herokuapp-com.freetls.fastly.net/assets/devlogo-pwa-512.png" width="50" height="50" style="border-radius: 7px" /></a> -->
+
+
+<a href="https://calendly.com/thecmdrunner" target="_blank" rel="noreferrer"><img src="/assets/book-meeting.png" width="50" height="50" /></a>
 
 ### <p style="font-family: 'SF Mono', 'Ubuntu Mono', 'Fira Code', 'Fira Mono',monospace;"><GitHub Stats\/></p>
 
