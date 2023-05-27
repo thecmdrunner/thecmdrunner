@@ -24,13 +24,11 @@
 
 ![fav](/assets/fav-tech.png)
 
-## <p style="font-family: 'SF Mono', 'Ubuntu Mono', 'Fira Code', 'Fira Mono',monospace">Want to learn 🧑‍🎓
+## <p style="font-family: 'SF Mono', 'Ubuntu Mono', 'Fira Code', 'Fira Mono',monospace">🧑‍🎓 Want to learn
 
 ![want-to-learn](/assets/want-to-learn.png)
 
-<!-- ## <p style="font-family: 'SF Mono', 'Ubuntu Mono', 'Fira Code', 'Fira Mono',monospace"><Reach Me\/></p> -->
-### 🙋 Reach me at 🡕
-
+## <p style="font-family: 'SF Mono', 'Ubuntu Mono', 'Fira Code', 'Fira Mono',monospace"><Contact me\/></p>
 
 <p align="left">
 <a href="mailto:thecmdrunner@proton.me" target="_blank" rel="noreferrer"><img src="/assets/email.png" height="75" /></a>
