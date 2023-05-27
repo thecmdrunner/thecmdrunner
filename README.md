@@ -6,17 +6,18 @@
 
   <!-- - 🖥️  See my portfolio at [here on netlify](https://) -->
 
-### 🚀  I'm currently working on:
-  - Adding new features to [**SlidesGPT**](https://slidesgpt.pro/) and its v2!
-  - **Dev Portfolio** powered by [**`create-t3-app`**](https://create.t3.gg/)
-
 ### 🧠  **Here's what I want to do this year:**
+  - [ ] Build [**Swiftube**](https://swiftube.vercel.app/) - an AI video maker, and scale it to thousands of users!
   - [ ] Learn to make great websites experiences using Next.js + tRPC, Tailwind, Prisma, and Redis.
-  - [ ] Scale [**SlidesGPT v2**](https://slidesgpt.pro/) to thousands of users!
+<!--   - [ ] Scale [**SlidesGPT v2**](https://slidesgpt.pro/) to thousands of users! -->
 <!--   2.  Interactive Blender models in React with [Three.js](https://threejs.org) -->
 
+### 🚀  Here's what I'm learning right now:
+  - Next.js 13 `app` directory, with best practices from the [**T3 Stack**](https://create.t3.gg/).
+  - Using [**Remotion**](https://remotion.dev/) to make beautiful videos programatically.
+
 ### 🤝  We can work together on:
-  - Dynamic videos on websites using [**Remotion**](https://remotion.dev/) which update in realtime, like [**SlidesGPT**](https://www.slidesgpt.pro) and [**Programmatic Intro**](https://fireship-remotion-intro.vercel.app/) for [**Fireship Code Report**](https://www.youtube.com/watch?v=uEJ-Rnm2yOE)
+  - Dynamic videos on websites using [**Remotion**](https://remotion.dev/) which update in realtime, like [**Swiftube**](https://swiftube.vercel.app/) and [**Programmatic Intro**](https://fireship-remotion-intro.vercel.app/) for [**Fireship Code Report**](https://www.youtube.com/watch?v=uEJ-Rnm2yOE).
 
 ### ✉️  Say Hello at [thecmdrunner@proton.me](mailto:thecmdrunner@proton.me).
 
@@ -24,6 +25,10 @@
  -->
 
 ![fav](/assets/fav-tech.png)
+
+## <p style="font-family: 'SF Mono', 'Ubuntu Mono', 'Fira Code', 'Fira Mono',monospace">Want to learn 🧑‍🎓
+
+![want-to-learn](/assets/want-to-learn.png)
 
 ## <p style="font-family: 'SF Mono', 'Ubuntu Mono', 'Fira Code', 'Fira Mono',monospace"><Reach Me\/></p>
 
