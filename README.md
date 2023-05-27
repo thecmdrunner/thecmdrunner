@@ -20,7 +20,7 @@
 
 ### ✉️  Say Hello at [thecmdrunner@proton.me](mailto:thecmdrunner@proton.me).
 
-## <p style="font-family: 'SF Mono', 'Ubuntu Mono', 'Fira Code', 'Fira Mono',monospace"><My Favourite Stack \/></p>
+## <p style="font-family: 'SF Mono', 'Ubuntu Mono', 'Fira Code', 'Fira Mono',monospace"><Tech Stack Used \/></p>
 
 ![fav](/assets/fav-tech.png)
 
