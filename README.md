@@ -20,7 +20,8 @@
 
 ### ✉️  Say Hello at [thecmdrunner@proton.me](mailto:thecmdrunner@proton.me).
 
-## <p style="font-family: 'SF Mono', 'Ubuntu Mono', 'Fira Code', 'Fira Mono',monospace"><Tech Stack Used \/></p>
+<!-- ## <p style="font-family: 'SF Mono', 'Ubuntu Mono', 'Fira Code', 'Fira Mono',monospace"><Tech Stack Used \/></p>
+ -->
 
 ![fav](/assets/fav-tech.png)
 
@@ -28,7 +29,7 @@
 
 <p align="left">
 <a href="mailto:thecmdrunner@proton.me" target="_blank" rel="noreferrer"><img src="/assets/email.png" width="75" height="75" /></a>
-<a href="https://discord.com/users/thecmdrunner#2074" target="_blank" rel="noreferrer"><img src="/assets/discord.png" width="75" height="75" /></a>
+<a href="https://discordapp.com/users/768013898385063936/" target="_blank" rel="noreferrer"><img src="/assets/discord.png" width="75" height="75" /></a>
 <a href="https://twitter.com/thecmdrunner" target="_blank" rel="noreferrer"><img src="/assets/twitter.png" width="75" height="75" /></a>
 <a href="https://universeodon.com/@thecmdrunner" target="_blank" rel="noreferrer"><img src="/assets/mastodon.png" width="75" height="75" /></a>
 <!-- <a href="https://www.dev.to/thecmdrunner" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--pcSkTMZL--/c_limit,f_auto,fl_progressive,q_80,w_190/https://practicaldev-herokuapp-com.freetls.fastly.net/assets/devlogo-pwa-512.png" width="75" height="75" style="border-radius: 7px" /></a> -->
