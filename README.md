@@ -19,8 +19,6 @@
 ### 🤝  We can work together on:
   - Dynamic videos on websites using [**Remotion**](https://remotion.dev/) which update in realtime, like [**Swiftube**](https://swiftube.vercel.app/) and [**Programmatic Intro**](https://fireship-remotion-intro.vercel.app/) for [**Fireship Code Report**](https://www.youtube.com/watch?v=uEJ-Rnm2yOE).
 
-### ✉️  Say Hello at [thecmdrunner@proton.me](mailto:thecmdrunner@proton.me).
-
 <!-- ## <p style="font-family: 'SF Mono', 'Ubuntu Mono', 'Fira Code', 'Fira Mono',monospace"><Tech Stack Used \/></p>
  -->
 
@@ -30,10 +28,12 @@
 
 ![want-to-learn](/assets/want-to-learn.png)
 
-## <p style="font-family: 'SF Mono', 'Ubuntu Mono', 'Fira Code', 'Fira Mono',monospace"><Reach Me\/></p>
+<!-- ## <p style="font-family: 'SF Mono', 'Ubuntu Mono', 'Fira Code', 'Fira Mono',monospace"><Reach Me\/></p> -->
+### 🙋 Reach me at 🡕
+
 
 <p align="left">
-<a href="mailto:thecmdrunner@proton.me" target="_blank" rel="noreferrer"><img src="/assets/email.png" width="75" height="75" /></a>
+<a href="mailto:thecmdrunner@proton.me" target="_blank" rel="noreferrer"><img src="/assets/email.png" height="75" /></a>
 <a href="https://discordapp.com/users/768013898385063936/" target="_blank" rel="noreferrer"><img src="/assets/discord.png" width="75" height="75" /></a>
 <a href="https://twitter.com/thecmdrunner" target="_blank" rel="noreferrer"><img src="/assets/twitter.png" width="75" height="75" /></a>
 <a href="https://universeodon.com/@thecmdrunner" target="_blank" rel="noreferrer"><img src="/assets/mastodon.png" width="75" height="75" /></a>
