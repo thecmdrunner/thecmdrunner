@@ -13,7 +13,7 @@
 <!--   2.  Interactive Blender models in React with [Three.js](https://threejs.org) -->
 
 ### 🚀  Here's what I'm learning right now:
-  - Next.js 13 `app` directory, with best practices from the [**T3 Stack**](https://create.t3.gg/).
+  - Combining the Next.js `app` directory, with best practices from the [**T3 Stack**](https://create.t3.gg/).
   - Using [**Remotion**](https://remotion.dev/) to make beautiful videos programatically.
 
 ### 🤝  We can work together on:
