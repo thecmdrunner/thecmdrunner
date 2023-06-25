@@ -31,7 +31,7 @@
 ## <p style="font-family: 'SF Mono', 'Ubuntu Mono', 'Fira Code', 'Fira Mono',monospace"><Contact me\/></p>
 
 <p align="left">
-<a href="mailto:thecmdrunner@proton.me?body=Hi%20there!" target="_blank" rel="noreferrer"><img src="/assets/email.png" height="75" /></a>
+<a href="mailto:hey@pranava.dev?body=Hi%20there!" target="_blank" rel="noreferrer"><img src="/assets/email.png" height="75" /></a>
 <a href="https://discordapp.com/users/768013898385063936/" target="_blank" rel="noreferrer"><img src="/assets/discord.png" width="75" height="75" /></a>
 <a href="https://twitter.com/thecmdrunner" target="_blank" rel="noreferrer"><img src="/assets/twitter.png" width="75" height="75" /></a>
 <a href="https://universeodon.com/@thecmdrunner" target="_blank" rel="noreferrer"><img src="/assets/mastodon.png" width="75" height="75" /></a>
