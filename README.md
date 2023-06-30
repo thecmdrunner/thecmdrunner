@@ -6,7 +6,7 @@
 
   <!-- - 🖥️  See my portfolio at [here on netlify](https://) -->
 
-### 🧠  **Here's what I want to do this year:**
+### 🧠  Here's what I'm doing this year:**
   - [ ] Build [**Swiftube**](https://swiftube.vercel.app/) - an AI video maker with more features, and scale it to thousands of users!
   - [ ] Learn to make great websites experiences using Next.js + tRPC, Tailwind, Prisma, and Redis.
 <!--   - [ ] Scale [**SlidesGPT v2**](https://slidesgpt.pro/) to thousands of users! -->
