@@ -24,7 +24,7 @@
 
 ![fav](/assets/fav-tech.png)
 
-## <p style="font-family: 'SF Mono', 'Ubuntu Mono', 'Fira Code', 'Fira Mono',monospace">🧑‍🎓 Want to learn
+## <p style="font-family: 'SF Mono', 'Ubuntu Mono', 'Fira Code', 'Fira Mono',monospace">🧑‍🎓 Wanna explore
 
 ![want-to-learn](/assets/want-to-learn.png)
 
